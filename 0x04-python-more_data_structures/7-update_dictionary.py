@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 def update_dictionary(a_dictionary, key, value):
     """
     A function that replaces or adds

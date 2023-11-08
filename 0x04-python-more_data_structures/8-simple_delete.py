@@ -1,4 +1,4 @@
-#!usr/bin/pyhton3
+#!/usr/bin/pyhton3
 def simple_delete(a_dictionary, key=""):
     """
     A function that deletes a key in a dictionary.
